@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Peperoni",
+    "description": "A crispy crust, spicy pepperoni, and melted mozzarella. The classic pizza everyone loves!",
+    "price": 12.5,
+    "img": "public/img/pizza-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Queen",
+    "description": "Mozzarella, ham, and mushrooms on a light crust. A simple and delicious combination.",
+    "price": 11.9,
+    "img": "public/img/pizza-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Holiday",
+    "description": "Grilled chicken, pineapple, and mozzarella for a pizza that feels like a vacation!",
+    "price": 13.5,
+    "img": "public/img/pizza-3.png"
+  }
+]
